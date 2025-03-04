@@ -1,0 +1,40 @@
+A game I would want to make is Icy Tower.
+ The game is shaped through the vertical axis.
+ The character keeps bouncing higher on platforms with no end-goal.
+ It’s more about how far can you reach with all these objects
+ making it harder.
+ Such objects as spikes on a platform so accuracy is a must or
+ the screen moving through the vertical axis faster so their
+ is less time to fix a mistake.
+ If you hit one of the spikes or the screen passes you,
+ the player loses.
+ I want to build this game because it reminds me of high school.
+ This was a game we could play without the proxy denying access
+ to the website. 
+
+Another game I would like to make is Temple Run.
+ It is very similar to icy tower expect it moves on a horizontal
+ axis rather than the vertical axis.
+ The game seems infinite, but has conditions that can cause the
+ player to lose.
+ The game automatically move you forward but conditions such as
+ a rock on the path, making a wrong turn or simply turning to
+ late can cause the player to lose.
+ The reason I want to make this game is because I remember the
+ countless hours I spent trying to beat other people high scores
+ to eventually trying to surpass my own. 
+
+
+The last game I would want to make is called Balloon Tower defense.
+ It’s about using the right characters who all have their own
+ unique abilities to break down the balloons to stop them from
+ reaching the end point.
+ All balloons defeated, you win the level, if one reachs the end
+ you lose.
+ The balloons have a health bar so it takes multiple hits to
+ take it out.
+ I like that there are many different ways you can play the
+ game, and at times changing the strategy to get the win.
+ As well as the defending people the player uses have upgrade
+ features which makes it more exciting as you move on to the
+ next level.
